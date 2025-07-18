@@ -14,8 +14,7 @@ The objective is to uncover business insights from policy, claims, and customer 
 
 ---
 
-# 👨‍💼 Author:
-Raju Sura
+# 👨‍💼 Author: Raju Sura
 
 📧 rajusura90@gmail.com
 
