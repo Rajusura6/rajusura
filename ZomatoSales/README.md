@@ -28,10 +28,11 @@ Jupyter Notebook for exploration (planned for future)
 
 ---
 
-# 👨‍💼 Author: Raju Sura
+# 👨‍💼 Author : Raju Sura
 
 📧 rajusura90@gmail.com
 
-[https://www.linkedin.com/in/rajusura](url)
+🔗 [LinkedIn](https://www.linkedin.com/in/rajusura)
+
 
 
