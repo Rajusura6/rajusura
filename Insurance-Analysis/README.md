@@ -19,6 +19,6 @@ Raju Sura
 
 📧 rajusura90@gmail.com
 
-[LinkedIn Profile](https://www.linkedin.com/in/rajusura)
+🔗 [LinkedIn](https://www.linkedin.com/in/rajusura)
 
 
