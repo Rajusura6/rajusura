@@ -1,10 +1,10 @@
-# 🔍 Overview :
+# 🔍 Overview:
 This project focuses on analyzing sales data from Zomato using various tools to extract insights, 
 visualize trends, and understand key business metrics.
 
 ---
 
-# 📊 Key KPIs Analyzed :
+# 📊 Key KPIs Analyzed:
 Total Sales by Region and Category
 
 Monthly Revenue Trends
@@ -17,7 +17,7 @@ Delivery Time Analysis
 
 ---
 
-# 🛠️ Tools & Technologies :
+# 🛠️ Tools & Technologies:
 SQL (MySQL) for data extraction and transformation
 
 Power BI and Tableau for visualization
