@@ -30,7 +30,7 @@
 
 ---
 
-### 4. **Netflix User Engagement (Ongoing)**  
+### 4. **Netflix User Engagement **  
 - Tools: Power BI  
 - Description: Visualizes viewer preferences and user activity metrics.  
 - File: `Netflix_Project.pbix`
