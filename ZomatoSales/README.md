@@ -11,13 +11,18 @@ Delivery Time Analysis
 
 🛠️ Tools & Technologies:
 SQL (MySQL) for data extraction and transformation
+
 Power BI and Tableau for visualization
+
 Excel for preliminary data cleaning and pivot analysis
+
 Jupyter Notebook for exploration (planned for future)
 
 👨‍💼 Author:
 Raju Sura
+
 📧 rajusura90@gmail.com
+
 [https://www.linkedin.com/in/rajusura](url)
 
 
