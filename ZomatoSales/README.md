@@ -4,9 +4,13 @@ visualize trends, and understand key business metrics.
 
 📊 Key KPIs Analyzed:
 Total Sales by Region and Category
+
 Monthly Revenue Trends
+
 Top Performing Cities and Items
+
 Customer Order Frequency
+
 Delivery Time Analysis
 
 🛠️ Tools & Technologies:
