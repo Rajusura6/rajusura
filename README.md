@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Raju Sura
 
-🎓 Aspiring Data Analyst | 📊 Passionate about transforming raw data into actionable insights  
+🎓 Detail-oriented Data Analyst | 📊 Passionate about transforming raw data into actionable insights  
 📍 Based in Bangalore | 📧 rajusura90@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/rajusura)
 
